@@ -1,0 +1,13 @@
+city_id,city,country,launch_date,population,market_tier
+1,Vilnius,Lithuania,2021-01-01,590000,Capital/Large
+2,Kaunas,Lithuania,2021-01-01,300000,Regional
+3,Riga,Latvia,2021-01-01,605000,Capital/Large
+4,Tallinn,Estonia,2021-01-01,455000,Regional
+5,Klaipeda,Lithuania,2022-03-01,160000,Regional
+6,Tartu,Estonia,2022-05-01,97000,Regional
+7,Warsaw,Poland,2022-09-01,1860000,Capital/Large
+8,Krakow,Poland,2023-04-01,800000,Capital/Large
+9,Helsinki,Finland,2024-02-01,675000,Capital/Large
+10,Gdansk,Poland,2024-06-01,485000,Regional
+11,Daugavpils,Latvia,2024-09-01,80000,Regional
+12,Tampere,Finland,2025-03-01,255000,Regional
