@@ -1,16 +1,15 @@
 <h1 align="center">Forkly Food Delivery Performance Report</h1>
 <p align="center"><em>2021–2025 · Python · pandas · NumPy · matplotlib · seaborn · Plotly · Dash · Jupyter</em></p>
-<p align="center"><sub>Forkly is a fictional company. The dataset is synthetic and was built to mirror the patterns of a European food delivery app. It contains no real customer, restaurant or courier data.</sub></p>
 
 <table align="center">
   <tr>
     <td width="1440">
-      <h2 align="center">Client Background</h2>
+      <h2 align="center">Company Background</h2>
       Forkly is a <strong>food and grocery delivery app</strong> operating in the Baltics, Poland and Finland. Customers order from partner restaurants through the iOS app, the Android app or the website, and Forkly's own couriers deliver by bicycle, e-bike, scooter or car. The company launched in <strong>4 cities in 2021</strong> and reached <strong>12 cities in 5 countries</strong> by 2025. It added the <strong>Forkly Plus</strong> subscription (free delivery) in 2023 and grocery delivery in 2024.<br>
       <br>
       Between 2021 and 2025 the app handled about <strong>300,000 orders</strong> from <strong>45,000 customers</strong> and <strong>2,900 restaurants</strong>, worth <strong>€7.2 million</strong> in gross merchandise value (GMV). The data covers customers, restaurants, menus, couriers, orders, order items, deliveries, reviews, support tickets, promotions, subscriptions, marketing spend and daily weather.<br>
       <br>
-      Reporting to the <strong>Head of Growth and the Operations team</strong>, I analysed five years of performance to answer four questions. Does Forkly make money on each order? Do customers come back? What does a late delivery cost? Which marketing spend pays off? The analysis focuses on these areas:
+      I analysed five years of Forkly's data to answer four questions. Does Forkly make money on each order? Do customers come back? What does a late delivery cost? Which marketing spend pays off? The analysis focuses on these areas:
       <h3>Northstar Metrics</h3>
       <ul>
         <li><strong>Growth:</strong> GMV, number of orders, average basket and growth by city.</li>
